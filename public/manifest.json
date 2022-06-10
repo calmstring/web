@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Calmstring",
+  "name": "Get info about rooms and availability time",
   "icons": [
     {
       "src": "favicon.ico",
