@@ -28,9 +28,11 @@ const Nav = () => {
           <StyledIcon Icon={NotificationsIcon} />
         </PureLink>
       </Box>
+      {/*
       <Box name="search" mr={2}>
         <StyledIcon Icon={SearchIcon} to="search" />
       </Box>
+    */}
       <Box name="profile">
         <PureLink to="profile">
           <StyledIcon Icon={SettingsIcon} to="profile" />
