@@ -1,5 +1,6 @@
 import React from "react";
 
+<<<<<<< HEAD
 import { Routes, Route } from "react-router-dom";
 
 import Home from "./components/Home";
@@ -27,16 +28,14 @@ function App() {
         </Routes>
       </MuiThemeProvider>
     </>
+=======
+function App() {
+  return (
+    <div className="App">
+      Calmstring
+    </div>
+>>>>>>> parent of 30e1ed5... zrobiłem stronę główną ale coś się popsuło icony i nie wiem jak dlaej to zrobić
   );
-}
-
-
-function filtr() {
-
-}
-
-function sale() {
-
 }
 
 export default App;
