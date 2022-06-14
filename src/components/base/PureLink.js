@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
-export default (props) => {
+const PureLink = (props) => {
   return <Link {...props} style={{ textDecoration: "none", color: "unset" }} />;
 };
+
+export default PureLink;

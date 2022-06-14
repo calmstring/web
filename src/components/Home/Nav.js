@@ -1,7 +1,7 @@
 import { Box } from "@mui/material";
 
 import NotificationsIcon from "@mui/icons-material/Notifications";
-import SearchIcon from "@mui/icons-material/Search";
+//import SearchIcon from "@mui/icons-material/Search";
 import SettingsIcon from "@mui/icons-material/Settings";
 
 import PureLink from "../base/PureLink";
