@@ -1,4 +1,5 @@
-export default () => {
-    return <>"notifications"</>;
-  };
-  
+const Notifications = () => {
+  return <>"notifications"</>;
+};
+
+export default Notifications;
